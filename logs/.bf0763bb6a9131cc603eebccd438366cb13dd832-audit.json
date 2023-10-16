@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/takiacademy/Desktop/side/node-starter/logs/.bf0763bb6a9131cc603eebccd438366cb13dd832-audit.json",
+    "files": [
+        {
+            "date": 1697442760598,
+            "name": "/Users/takiacademy/Desktop/side/node-starter/logs/2023-10-16.log",
+            "hash": "a11d11028b4b92c3a443b3b2d07da440"
+        }
+    ]
+}
