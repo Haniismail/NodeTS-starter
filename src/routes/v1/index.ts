@@ -1,5 +1,5 @@
 import express from 'express';
-import access  from './access/access';
+import access  from './auth/access';
 import profile from './user/profile';
 import users from './user/user'
 
